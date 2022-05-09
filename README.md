@@ -1,8 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Star%20Butterfly&fontSize=90)
+<!-- HEADER --> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Star%20Butterfly&fontSize=90)
 
+
+
+
+<!-- IMG --> 
 <p align="center"><img src="https://user-images.githubusercontent.com/58620940/167418796-08217dd1-6a13-45c0-b87f-46bb71058bf4.gif" width="400"></p>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
+
+
+
+<!-- TEAC STACT --> 
+<h3 align="center"><b> Tech Stack </b></h3></br>
 <p align="center">
 <a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
@@ -18,7 +27,8 @@
 
  
  
-<h3 align="center"><b>💜 Tools 💜</b></h3></br>
+<!-- TOOLS -->  
+<h3 align="center"><b> Tools </b></h3></br>
 <p align="center">	
 <a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
 <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
@@ -40,7 +50,8 @@
 
 
 
-<h3 align="center"><b>🔥 My Account 🔥</b></h3>
+<!-- MY ACCOUNT --> 	
+<h3 align="center"><b> My Account </b></h3>
 </br>
 <p align="center">	
 <a href="https://www.youtube.com/"> <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool"/></a> &nbsp
@@ -55,26 +66,29 @@
 
 				
 
-
-<h3 align="center"><b>✨ Social ✨</b></h3></br>
+<!-- SOCIAL --> 
+<h3 align="center"><b> Social </b></h3></br>
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100013531959497"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <br
 
 
 	
 	
-
-<h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
+<!-- STATISTICS --> 
+<h3 align="center"><b> Statistics </b></h3></br>
 <p align="center">
 <a href="https://github.com/jungkeunmo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/></a> &nbsp 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=omni&layout=compact"/>
 
   
   
-  
+
+<!-- HIT --> 	
 <p align="center"> <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungkeunmo&count_bg=%23C8DEB8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits"/>
 	
+
 	
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)	
 	
+<!-- FOOTER --> 	
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=footer)	
