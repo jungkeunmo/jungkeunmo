@@ -13,7 +13,7 @@
 <!-- TEAC STACT --> 
 <h3 align="center"><b> Tech Stack </b></h3></br>
 <p align="center">
-<a href="https://www.java.com/ko/"> <img src="https://img.shields.io/badge/Java-CC3D3D?style=flat-badge&logo=java&logoColor=withe"/></a> &nbsp 
+<a href="https://www.adobe.com/kr/products/xd.html"> <img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=fff"/></a> &nbsp 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
 <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp 
