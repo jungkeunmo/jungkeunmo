@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Star%20Butterfly&fontSize=90)
-<div align="center"> ![2d03664020e0b77e9857b6c9c9422562](https://user-images.githubusercontent.com/58620940/167418796-08217dd1-6a13-45c0-b87f-46bb71058bf4.gif) </div>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/58620940/167418796-08217dd1-6a13-45c0-b87f-46bb71058bf4.gif" width="400"></p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3></br>
 <p align="center">
@@ -65,12 +66,15 @@
 
 <h3 align="center"><b>🌌 Statistics 🌌</b></h3></br>
 <p align="center">
-
-<a href="https://github.com/Jinyiji/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Jinyiji&theme=omni&show_icons=true"/></a> &nbsp 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinyiji&theme=omni&layout=compact"/>
+<a href="https://github.com/jungkeunmo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/></a> &nbsp 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=omni&layout=compact"/>
 
   
   
   
 <p align="center"> <br>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinyiji&count_bg=%23FF6BCF&title_bg=%238F00A8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungkeunmo&count_bg=%23C8DEB8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits"/>
+	
+	
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)	
+	
