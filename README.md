@@ -1,10 +1,10 @@
-<!-- HEADER --> 
+<!-- 🐶HEADER🐶 --> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Star%20Butterfly&fontSize=90&fontColor=fff)
 
 
 
 
-<!-- IMG --> 
+<!-- 🐱IMG🐱 --> 
 <p align="center"><img src="https://user-images.githubusercontent.com/58620940/167447370-b12b8409-7e7b-459f-9f6c-190169267a2a.gif" width="220" height="240"> &nbsp 
 <img src="https://user-images.githubusercontent.com/58620940/167445407-49184a4f-a810-4016-bbb8-e052b0afc734.gif" width="240"height="240"> &nbsp 
 <img src="https://user-images.githubusercontent.com/58620940/167446472-15cb2a07-3cc9-49c3-86e8-cc27a0892bec.gif" width="220"height="240">
@@ -13,24 +13,28 @@
 
 
 
-<!-- TEAC STACT --> 
+<!-- 🐭TEAC STACT🐭 --> 
 <h3 align="center"><b> Tech Stack </b></h3></br>
 <p align="center">
-<a href="https://www.adobe.com/kr/products/xd.html"> <img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=fff"/></a> &nbsp 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp 
-<a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp 
-<a href="https://spring.io/"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/></a> &nbsp 
-<a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-badge&logo=C Sharp&logoColor=withe"/></a> </br>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> &nbsp 
-<a href="https://www.adobe.com/kr/products/photoshop.html"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-badge&logo=c&logoColor=white"/></a> 
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp
+<a href="https://git-scm.com/">	
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
+<a href="https://git-scm.com/">	
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a></br>
+<a href="https://git-scm.com/"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
+<a href="https://www.python.org/"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-badge&logo=python&logoColor=white"/></a> &nbsp 
+<a href="https://www.adobe.com/kr/products/photoshop.html"> 
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
+<a href="https://www.adobe.com/kr/products/xd.html"> 
+<img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=white"/></a>
 	
 
  
  
-<!-- TOOLS -->  
+<!-- 🐹TOOLS🐹 -->  
 <h3 align="center"><b> Tools </b></h3></br>
 <p align="center">	
 <a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
@@ -53,7 +57,7 @@
 
 
 
-<!-- MY ACCOUNT --> 	
+<!-- 🐰MY ACCOUNT🐰 --> 	
 <h3 align="center"><b> My Account </b></h3>
 </br>
 <p align="center">	
@@ -69,7 +73,7 @@
 
 				
 
-<!-- SOCIAL --> 
+<!-- 🦊SOCIAL🦊 --> 
 <h3 align="center"><b> Social </b></h3></br>
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100013531959497"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <br
@@ -77,7 +81,7 @@
 
 	
 	
-<!-- STATISTICS --> 
+<!-- 🐻STATISTICS🐻 --> 
 <h3 align="center"><b> Statistics </b></h3></br>
 <p align="center">
 <a href="https://github.com/jungkeunmo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/></a> &nbsp 
@@ -86,12 +90,12 @@
   
   
 
-<!-- HIT --> 	
+<!-- 🐼HIT🐼 --> 	
 <p align="center"> <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungkeunmo&count_bg=%23C8DEB8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits"/>
 	
 
 	
 	
-<!-- FOOTER --> 	
+<!-- 🐻‍❄️FOOTER🐻‍❄️ --> 	
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer)	
