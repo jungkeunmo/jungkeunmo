@@ -1,5 +1,5 @@
 <!-- HEADER --> 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Star%20Butterfly&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Star%20Butterfly&fontSize=90&fontColor=fff)
 
 
 
