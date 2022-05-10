@@ -14,7 +14,7 @@
 
 
 <!-- 🐭TEAC STACT🐭 --> 
-<h3 align="center"><b> Tech Stack </b></h3></br>
+<h3 align="center"><b> 🍑Tech Stack🍑 </b></h3></br>
 <p align="center">
 <a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -35,30 +35,20 @@
  
  
 <!-- 🐹TOOLS🐹 -->  
-<h3 align="center"><b> Tools </b></h3></br>
+<h3 align="center"><b> 🍏Tools🍏 </b></h3></br>
 <p align="center">	
-<a href="https://www.eclipse.org/downloads/"> <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-badge&logo=eclipse&logoColor=white"/></a> &nbsp 
 <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
 <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
-<a href="https://www.jetbrains.com/company/brand/"> <img src="https://img.shields.io/badge/IntelliJ IDEA-0071C5?style=flat-badge&logo=IntelliJ IDEA&logoColor=white"/></a> &nbsp 
-<a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-badge&logo=Wireshark&logoColor=white"/></a>  &nbsp
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> <br>
-<a href="https://www.oracle.com/kr/database/"> <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-badge&logo=oracle&logoColor=white"/></a> &nbsp
-<a href="https://www.sublimetext.com/"> <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-badge&logo=Sublime Text&logoColor=white"/></a> &nbsp
-<a href="https://tomcat.apache.org/download-80.cgi"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-badge&logo=Apache Tomcat&logoColor=white"/></a>  &nbsp
-<a href="https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows"> <img src="https://img.shields.io/badge/PyCharm-48A842?style=flat-badge&logo=pycharm&logoColor=white"/></a>  &nbsp
-<a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp 
-<a href="https://docs.djangoproject.com/ko/4.0/howto/windows/"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-badge&logo=Django&logoColor=white"/></a> &nbsp 
-<a href="https://getbootstrap.kr/"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-badge&logo=Bootstrap&logoColor=white"/></a> &nbsp <br>
-<a href="https://brand.unity.com/"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-badge&logo=Unity&logoColor=black"/></a> &nbsp
+<a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp <br>
 <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/></a> &nbsp
-<a href="https://atom.io/"> <img src="https://img.shields.io/badge/Atom-66595C?style=flat-badge&logo=atom&logoColor=white"/></a>
+
 
 
 
 
 <!-- 🐰MY ACCOUNT🐰 --> 	
-<h3 align="center"><b> My Account </b></h3>
+<h3 align="center"><b> 🍓My Account🍓 </b></h3>
 </br>
 <p align="center">	
 <a href="https://www.youtube.com/"> <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool"/></a> &nbsp
@@ -74,7 +64,7 @@
 				
 
 <!-- 🦊SOCIAL🦊 --> 
-<h3 align="center"><b> Social </b></h3></br>
+<h3 align="center"><b> 🫐Social🫐 </b></h3></br>
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100013531959497"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/></a> &nbsp <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> <br
 
@@ -82,7 +72,7 @@
 	
 	
 <!-- 🐻STATISTICS🐻 --> 
-<h3 align="center"><b> Statistics </b></h3></br>
+<h3 align="center"><b> 🍊Statistics🍊 </b></h3></br>
 <p align="center">
 <a href="https://github.com/jungkeunmo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/></a> &nbsp 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=omni&layout=compact"/>
