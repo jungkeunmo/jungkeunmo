@@ -16,7 +16,7 @@
 <!-- 🐭TEAC STACT🐭 --> 
 <h3 align="center"><b> 🍑Tech Stack🍑 </b></h3></br>
 <p align="center">
-<a href="https://git-scm.com/">
+<a href="https://developer.mozilla.org/ko/docs/Web/HTML">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp
 <a href="https://git-scm.com/">	
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
