@@ -18,9 +18,9 @@
 <p align="center">
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-badge&logo=HTML5&logoColor=white"/></a> &nbsp
-<a href="https://git-scm.com/">	
+<a href="https://developer.mozilla.org/ko/docs/Web/CSS/Reference">	
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
-<a href="https://git-scm.com/">	
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">	
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a></br>
 <a href="https://git-scm.com/"> 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-badge&logo=git&logoColor=white"/></a> &nbsp
