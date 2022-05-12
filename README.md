@@ -40,7 +40,7 @@
 <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
 <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> 
-<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/Mongodb-47A248?style=flat-badge&logo=Mongodb&logoColor=white"/></a> <br>
+<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/></a> <br>
 <a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp 
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/></a> &nbsp 
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
@@ -66,7 +66,8 @@
 <a href="https://velog.io/@jinyiji"><img src="https://camo.githubusercontent.com/fe4c5886726a4a11c7a8380bddb273de7449d521ad1f958876c982cf0c380b46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d666f722d7468652d737175617265266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465"/></a> &nbsp
 <a href="https://brand.linkedin.com/policies"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
 <a href="https://www.notion.so/"> <img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp
-<a href="https://github.com/jungkeunmo"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/jungkeunmo"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a> &nbsp
+<a href="https://github.com/jungkeunmo"> <img src="https://img.shields.io/badge/pinterest-BD081C?style==flat-badge&logo=pinterest&logoColor=white"/></a>
 	
 
 				
@@ -80,6 +81,8 @@
 <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-badge&logo=Twitter&logoColor=white"/> 
 </a> &nbsp 
 <a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-badge&logo=Discord&logoColor=white"/> 
+</a>
+<a href="https://www.instagram.com/j_gwaaho/"> <img src="https://img.shields.io/badge/TikTok-000000?style=flat-badge&logo=TikTok&logoColor=white"/> 
 </a>	
 <br>
 
