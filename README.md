@@ -80,9 +80,9 @@
 <a href="https://www.instagram.com/geunmo07/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/></a> &nbsp 
 <a href="https://twitter.com/llllll20784399"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-badge&logo=Twitter&logoColor=white"/> 
 </a> &nbsp 
-<a href="https://www.instagram.com/geunmo07/"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-badge&logo=Discord&logoColor=white"/> 
+<a href="https://support.discord.com/hc/ko"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-badge&logo=Discord&logoColor=white"/> 
 </a>
-<a href="https://www.instagram.com/geunmo07/"> <img src="https://img.shields.io/badge/TikTok-000000?style=flat-badge&logo=TikTok&logoColor=white"/> 
+<a href="https://www.tiktok.com/@abc59684495"> <img src="https://img.shields.io/badge/TikTok-000000?style=flat-badge&logo=TikTok&logoColor=white"/> 
 </a>	
 <br>
 
