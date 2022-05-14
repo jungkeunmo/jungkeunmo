@@ -42,8 +42,8 @@
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> 
 <a href="https://www.mongodb.com/ko-kr"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/></a> <br>
 <a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp 
-<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/></a> &nbsp 
-<a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
+<a href="https://expressjs.com/ko/"> <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/></a> &nbsp 
+<a href="https://expo.dev/"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
 </a> <br>
 <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
 </a> &nbsp
