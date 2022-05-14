@@ -49,7 +49,7 @@
 </a> &nbsp
 <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/Next-000000?style=flat-badge&logo=Next&logoColor=white"/>
 </a> &nbsp 
-<a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"/>
+<a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"/>
 </a>	
 
 
