@@ -67,7 +67,7 @@
 <a href="https://brand.linkedin.com/policies"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
 <a href="https://www.notion.so/"> <img src="https://img.shields.io/badge/Notion-333333?style=flat-badge&logo=notion&logoColor=white"/></a> &nbsp
 <a href="https://github.com/jungkeunmo"> <img src="https://img.shields.io/badge/github-181717?style==flat-badge&logo=github&logoColor=white"/></a> &nbsp
-<a href="https://github.com/jungkeunmo"> <img src="https://img.shields.io/badge/pinterest-BD081C?style==flat-badge&logo=pinterest&logoColor=white"/></a>
+<a href="https://www.pinterest.co.kr/"> <img src="https://img.shields.io/badge/pinterest-BD081C?style==flat-badge&logo=pinterest&logoColor=white"/></a>
 	
 
 				
