@@ -105,8 +105,18 @@
 <!-- 🐼HIT🐼 --> 	
 <p align="center"> <br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungkeunmo&count_bg=%23C8DEB8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits"/>
-	
+</p>	
 
+
+
+
+<!-- 🍋gif🍋 --> 	
+<p align="center">	
+<a href="https://www.ghibli.jp/">	
+<img src="https://user-images.githubusercontent.com/58620940/168466622-8599b511-0db7-4ad6-a2ba-dc63c95dc52f.gif" width="500" height="240">
+</p>
+
+	
 	
 	
 <!-- 🐻‍❄️FOOTER🐻‍❄️ --> 	
