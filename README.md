@@ -96,7 +96,7 @@
 <!-- 🐻STATISTICS🐻 --> 
 <h3 align="center"><b> 🍊Statistics🍊 </b></h3></br>
 <p align="center">
-<a href="https://github.com/jungkeunmo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/></a> &nbsp 
+<a href="https://github.com/jungkeunmo"><img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/></a> &nbsp 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=omni&layout=compact"/>
 
   
