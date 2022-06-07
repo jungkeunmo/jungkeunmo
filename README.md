@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">	
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a>
-	
+
 </br>
 
 <a href="https://git-scm.com/"> 
@@ -55,11 +55,13 @@
 <a href="https://visualstudio.microsoft.com/ko/"> <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-badge&logo=visualstudio&logoColor=white"/></a> &nbsp 
 <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-badge&logo=visualstudiocode&logoColor=white"/></a> &nbsp 
 <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-badge&logo=MySQL&logoColor=white"/></a> 
-<a href="https://www.mongodb.com/ko-kr"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/></a> <br>
+<a href="https://www.mongodb.com/ko-kr"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-badge&logo=MongoDB&logoColor=white"/></a> 
+<br>
 <a href="https://nodejs.org/en/about/resources/"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-badge&logo=Node.js&logoColor=white"/></a> &nbsp 
 <a href="https://expressjs.com/ko/"> <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/></a> &nbsp 
 <a href="https://expo.dev/"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
-</a> <br>
+</a> 
+<br>
 <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
 </a> &nbsp
 <a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/Next-000000?style=flat-badge&logo=Next&logoColor=white"/>
