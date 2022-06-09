@@ -1,8 +1,3 @@
-
-
-
-
-
 <!-- 🐶HEADER🐶 --> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Star%20Butterfly&fontSize=90&fontColor=fff)
 
@@ -144,7 +139,3 @@
 
 <!-- 🐻‍❄️FOOTER🐻‍❄️ --> 	
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer)	
-
-
-
-
