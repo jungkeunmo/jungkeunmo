@@ -27,7 +27,9 @@
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS/Reference">	
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-badge&logo=CSS3&logoColor=white"/></a> &nbsp
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">	
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">		
+<img src="https://img.shields.io/badge/PUG-A86454?style=flat-badge&logo=PUG&logoColor=white"/></a> 
 
 </br>
 
