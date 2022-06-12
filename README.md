@@ -103,7 +103,6 @@
 </a>
 <a href="https://www.tiktok.com/@abc59684495"> <img src="https://img.shields.io/badge/TikTok-000000?style=flat-badge&logo=TikTok&logoColor=white"/> 
 </a>
-	
 <br>
 
 
