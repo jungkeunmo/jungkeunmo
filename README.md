@@ -40,7 +40,9 @@
 <a href="https://www.adobe.com/kr/products/photoshop.html"> 
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-badge&logo=adobephotoshop&logoColor=white"/></a> &nbsp 
 <a href="https://www.adobe.com/kr/products/xd.html"> 
-<img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobexd-FF61F6?style=flat-badge&logo=Adobexd&logoColor=white"/></a> &nbsp 
+<a href="https://www.adobe.com/kr/products/xd.html"> 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-badge&logo=Kotlin&logoColor=white"/></a>
 	
 
  
