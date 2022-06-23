@@ -60,7 +60,6 @@
 <a href="https://expressjs.com/ko/"> <img src="https://img.shields.io/badge/Express-000000?style=flat-badge&logo=Express&logoColor=white"/></a> &nbsp 
 <a href="https://expo.dev/"> <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
 </a> 
-<a href="https://expo.dev/"> 
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-badge&logo=AndroidStudio&logoColor=white"/>
 </a> 
 <br>
