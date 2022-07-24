@@ -7,9 +7,9 @@
 
 <!-- 🐱IMG🐱 --> 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58620940/180670849-b1f3739c-10e4-4ca0-93fb-039c9225315f.gif" width="220" height="240"> &nbsp 
-<img src="https://user-images.githubusercontent.com/58620940/180647851-6a1fb83d-adb8-4fd2-8aa1-b0941b62ab25.gif" width="350"height="240"> &nbsp 
-<img src="https://user-images.githubusercontent.com/58620940/180670814-641979e9-6efd-41a5-9b35-5453e522a296.gif" width="220"height="240">
+<img src="https://user-images.githubusercontent.com/58620940/180670849-b1f3739c-10e4-4ca0-93fb-039c9225315f.gif" width="200" height="240"> &nbsp 
+<img src="https://user-images.githubusercontent.com/58620940/180647851-6a1fb83d-adb8-4fd2-8aa1-b0941b62ab25.gif" width="400"height="240"> &nbsp 
+<img src="https://user-images.githubusercontent.com/58620940/180670814-641979e9-6efd-41a5-9b35-5453e522a296.gif" width="200"height="240">
 </p>
 
 
