@@ -1,4 +1,3 @@
-
 <!-- 🐧HEADER🐧 --> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Star%20Butterfly&fontSize=90&fontColor=fff)
 
@@ -8,9 +7,9 @@
 
 <!-- 🐱IMG🐱 --> 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58620940/167447370-b12b8409-7e7b-459f-9f6c-190169267a2a.gif" width="220" height="240"> &nbsp 
-<img src="https://user-images.githubusercontent.com/58620940/167445407-49184a4f-a810-4016-bbb8-e052b0afc734.gif" width="240"height="240"> &nbsp 
-<img src="https://user-images.githubusercontent.com/58620940/167446472-15cb2a07-3cc9-49c3-86e8-cc27a0892bec.gif" width="220"height="240">
+<img src="https://user-images.githubusercontent.com/58620940/180648148-8677504f-cc66-4fc9-ae21-247508d4f96c.gif" width="220" height="240"> &nbsp 
+<img src="https://user-images.githubusercontent.com/58620940/180647851-6a1fb83d-adb8-4fd2-8aa1-b0941b62ab25.gif" width="350"height="240"> &nbsp 
+<img src="https://user-images.githubusercontent.com/58620940/180648326-26b9620e-75d8-44ae-83e9-77601ca696c4.gif" width="300"height="240">
 </p>
 
 
@@ -136,7 +135,7 @@
 
 <!-- 🐤gif🐤 --> 	
 <p align="center">	
-<img src="https://user-images.githubusercontent.com/58620940/168466622-8599b511-0db7-4ad6-a2ba-dc63c95dc52f.gif" width="450" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/180647933-1c03e0d6-67e4-46ce-8594-4d08c623c761.gif" width="450" height="240">
 </p></a>
 
 	
