@@ -112,7 +112,7 @@
 	
 	
 	
-<!-- 🐻STATISTICS🐻 --> 
+<!-- 🦄STATISTICS🦄 --> 
 <h3 align="center"><b> 🍊Statistics🍊 </b></h3></br>
 <p align="center">
 <a href="https://github.com/jungkeunmo?tab=repositories">
