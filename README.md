@@ -8,7 +8,7 @@
 
 <!-- 🐱GIF🐱 --> 
 <p align="center">
-<a href="https://www.pinterest.co.kr/pin/934567360152882417/"> 
+<a href="https://user-images.githubusercontent.com/58620940/212442274-31d60483-f388-4755-81f7-e170c8daa831.gif"> 
 <img src="https://user-images.githubusercontent.com/58620940/212442274-31d60483-f388-4755-81f7-e170c8daa831.gif" width="200" height="240">
 </a> &nbsp 
 <a href="https://user-images.githubusercontent.com/58620940/210353504-1cb91ecf-ec5c-487d-99a2-c696e626e81a.gif"> 
