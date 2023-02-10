@@ -1,4 +1,4 @@
-
+  
 <!-- 🐧HEADER🐧 --> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Git%20PortFolio&fontSize=90&fontColor=fff)
 
@@ -73,10 +73,12 @@
 <br>
 <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
 </a> &nbsp
-<a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/Next-000000?style=flat-badge&logo=Next&logoColor=white"/>
+<a href="https://typescript.org/"> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-badge&logo=TypeScript&logoColor=white"/>
 </a> &nbsp 
 <a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-badge&logo=Postman&logoColor=white"/>
-</a>	
+</a>
+<a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/Next-000000?style=flat-badge&logo=Next&logoColor=white"/>
+</a> &nbsp
 
 
 
