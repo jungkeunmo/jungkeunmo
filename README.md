@@ -190,10 +190,10 @@
 
 <p align="center">
 <a href="https://github.com/jungkeunmo?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=omni&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=react&show_icons=true"/>
 </a> &nbsp 
 <a href="https://github.com/jungkeunmo?tab=repositories">	
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=omni&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=react&layout=compact"/>
 </a>
   
   
