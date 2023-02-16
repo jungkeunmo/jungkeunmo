@@ -97,6 +97,7 @@
 <a href="https://expo.dev/"> 
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-badge&logo=Expo&logoColor=white"/>
 </a> &nbsp
+<a href="https://developer.android.com/studio"> 
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-badge&logo=AndroidStudio&logoColor=white"/>
 </a> &nbsp
 <a href="https://reactjs.org/"> 
