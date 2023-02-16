@@ -166,7 +166,7 @@
 <p align="center">	
 <a href="https://www.facebook.com/profile.php?id=100066889059859"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-badge&logo=facebook&logoColor=white"/>
 </a> &nbsp 
-<a href="https://www.instagram.com/geunmo07/">
+<a href="https://www.instagram.com/geunmo.dev.07/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-badge&logo=instagram&logoColor=white"/>
 </a> &nbsp 
 <a href="https://twitter.com/llllll20784399"> 
