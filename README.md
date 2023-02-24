@@ -100,7 +100,7 @@
 <a href="https://developer.android.com/studio"> 
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-badge&logo=AndroidStudio&logoColor=white"/>
 </a> &nbsp
-<a href="https://reactjs.org/"> 
+<a href="https://reactnative.dev/"> 
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
 </a> 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -109,7 +109,7 @@
 <a href="https://reactjs.org/"> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-badge&logo=React&logoColor=white"/>
 </a> &nbsp
-<a href="https://typescript.org/"> 
+<a href="https://www.typescriptlang.org/"> 
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-badge&logo=TypeScript&logoColor=white"/>
 </a> &nbsp 
 <a href="https://www.postman.com/"> 
