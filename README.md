@@ -24,7 +24,7 @@
 
 
 <!-- 🐭TEAC STACT🐭 --> 
-<h3 align="center"><b> 🍑Tech Stack🍑 </b></h3>
+<h3 align="center"><b> 🍑 Tech Stack 🍑 </b></h3>
 
 </br>
  
@@ -65,7 +65,7 @@
  
  
 <!-- 🐹TOOLS🐹 -->  
-<h3 align="center"><b> 🍏Tools🍏 </b></h3>
+<h3 align="center"><b> 🍏 Tools 🍏 </b></h3>
 
 </br>
 
@@ -124,7 +124,7 @@
 
 
 <!-- 🐰MY ACCOUNT🐰 --> 	
-<h3 align="center"><b> 🍓My Account🍓 </b></h3>
+<h3 align="center"><b> 🍓 My Account 🍓 </b></h3>
 
 </br>
 
@@ -159,7 +159,7 @@
 				
 
 <!-- 🦊SOCIAL🦊 --> 
-<h3 align="center"><b> 🫐Social🫐 </b></h3>
+<h3 align="center"><b> 🫐 Social 🫐 </b></h3>
 
 </br>
 
@@ -186,7 +186,7 @@
 	
 	
 <!-- 🦄STATISTICS🦄 --> 
-<h3 align="center"><b> 🍊Statistics🍊 </b></h3>
+<h3 align="center"><b> 🍊 Statistics 🍊 </b></h3>
 
 </br>
 
@@ -197,10 +197,13 @@
 <a href="https://github.com/jungkeunmo?tab=repositories">	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkeunmo&theme=react&layout=compact"/>
 </a>
-  
-  
+	
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungkeunmo)](https://solved.ac/jungkeunmo)
+
 
 	
+
 	
 <!-- 🐼HIT🐼 --> 	
 <p align="center"> 
@@ -209,6 +212,9 @@
 	
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungkeunmo&count_bg=%23C8DEB8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits"/>
 </p>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jungkeunmo)](https://solved.ac/jungkeunmo)
 
 </br>
 
