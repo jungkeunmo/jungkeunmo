@@ -1,12 +1,12 @@
   
-<!-- 🐧HEADER🐧 --> 
+<!-- 🐧 HEADER 🐧 --> 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Git%20PortFolio&fontSize=90&fontColor=fff)
 
 
 
 
 
-<!-- 🐱GIF🐱 --> 
+<!-- 🐱 GIF 🐱 --> 
 <p align="center">
 <a href="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif"> 
 <img src="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif" width="200" height="240">
@@ -23,7 +23,7 @@
 
 
 
-<!-- 🐭TEAC STACT🐭 --> 
+<!-- 🐭 TEAC STACT 🐭 --> 
 <h3 align="center"><b> 🍑 Tech Stack 🍑 </b></h3>
 
 </br>
@@ -64,7 +64,7 @@
  
  
  
-<!-- 🐹TOOLS🐹 -->  
+<!-- 🐹 TOOLS 🐹 -->  
 <h3 align="center"><b> 🍏 Tools 🍏 </b></h3>
 
 </br>
@@ -123,7 +123,7 @@
 
 
 
-<!-- 🐰MY ACCOUNT🐰 --> 	
+<!-- 🐰 MY ACCOUNT 🐰 --> 	
 <h3 align="center"><b> 🍓 My Account 🍓 </b></h3>
 
 </br>
@@ -158,7 +158,7 @@
 	
 				
 
-<!-- 🦊SOCIAL🦊 --> 
+<!-- 🦊 SOCIAL 🦊 --> 
 <h3 align="center"><b> 🫐 Social 🫐 </b></h3>
 
 </br>
@@ -185,7 +185,7 @@
 	
 	
 	
-<!-- 🦄STATISTICS🦄 --> 
+<!-- 🦄 STATISTICS 🦄 --> 
 <h3 align="center"><b> 🍊 Statistics 🍊 </b></h3>
 
 </br>
@@ -202,7 +202,7 @@
 	
 
 	
-<!-- 🐼HIT🐼 --> 	
+<!-- 🐼 HIT 🐼 --> 	
 <p align="center"> 
 	
 </br>
@@ -216,7 +216,7 @@
 
 
 
-<!-- 🐤GIF🐤 --> 	
+<!-- 🐤 GIF 🐤 --> 	
 <p align="center">
 <a href="https://user-images.githubusercontent.com/58620940/219960617-d68d87b2-d102-4e02-8d20-614a882ab271.gif"> 	
 <img src="https://user-images.githubusercontent.com/58620940/219960617-d68d87b2-d102-4e02-8d20-614a882ab271.gif" width="450" height="240">
@@ -227,5 +227,5 @@
 	
 
 
-<!-- 🐻‍❄️FOOTER🐻‍❄️ --> 
+<!-- 🐻‍❄️ FOOTER 🐻‍❄️ --> 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=footer)	
