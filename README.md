@@ -191,7 +191,7 @@
 </br>
 
 <p align="center">
-<a href="https://github.com/jungkeunmo?tab=repositories">
+<a href="https://github.com/jungkeunmo?tab=stars">
 <img src="https://github-readme-stats.vercel.app/api?username=jungkeunmo&theme=react&show_icons=true"/>
 </a> &nbsp 
 <a href="https://github.com/jungkeunmo?tab=repositories">	
