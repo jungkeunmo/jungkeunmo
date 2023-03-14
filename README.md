@@ -9,7 +9,7 @@
 <!-- 🐱 GIF 🐱 --> 
 <p align="center">
 <a href="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif"> 
-<img src="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif" width="200" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif" width="200"height="240">
 </a> &nbsp 
 <a href="https://user-images.githubusercontent.com/58620940/217849122-9dfeeb72-2958-40cc-a647-382bfb078cd8.gif"> 
 <img src="https://user-images.githubusercontent.com/58620940/217849122-9dfeeb72-2958-40cc-a647-382bfb078cd8.gif" width="400"height="240">
