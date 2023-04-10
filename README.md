@@ -158,7 +158,7 @@
 	
 				
 
-<!-- 🦊 SOCIAL 🦊 --> 
+<!-- 🦊 SOCIALS 🦊 --> 
 <h3 align="center"><b> 🫐 Social 🫐 </b></h3>
 
 </br>
