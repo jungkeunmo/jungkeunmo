@@ -219,7 +219,7 @@
 <!-- 🐤 GIF & IMG 🐤 --> 	
 <p align="center">
 <a href="https://user-images.githubusercontent.com/58620940/219960617-d68d87b2-d102-4e02-8d20-614a882ab271.gif"> 	
-<img src="https://user-images.githubusercontent.com/58620940/219960617-d68d87b2-d102-4e02-8d20-614a882ab271.gif" width="450" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/235355841-009e7307-1ff9-4122-9fb3-266e15825fcb.gif" width="450" height="240">
 </p>
 </a>
 
