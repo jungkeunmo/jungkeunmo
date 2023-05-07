@@ -9,13 +9,13 @@
 <!-- 🐱 GIF & IMG 🐱 --> 
 <p align="center">
 <a href="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif"> 
-<img src="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif" width="200" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/236674068-aa4be8fc-d10a-48fe-909c-d6a06ba038c1.gif" width="200" height="240">
 </a> &nbsp 
 <a href="https://user-images.githubusercontent.com/58620940/217849122-9dfeeb72-2958-40cc-a647-382bfb078cd8.gif"> 
-<img src="https://user-images.githubusercontent.com/58620940/217849122-9dfeeb72-2958-40cc-a647-382bfb078cd8.gif" width="400" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/236674444-51f2f7dc-fb7d-4f88-addf-7efd4377b587.gif" width="400" height="240">
 </a> &nbsp 
 <a href="https://user-images.githubusercontent.com/58620940/220406596-4421beb1-73c3-433c-98f9-a536e55b2beb.gif"> 	
-<img src="https://user-images.githubusercontent.com/58620940/220406596-4421beb1-73c3-433c-98f9-a536e55b2beb.gif" width="200" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/236674402-32efb7d7-db12-4eb5-a125-bd5388c1a536.gif" width="200" height="240">
 </a> 
 </p>
 
@@ -219,7 +219,7 @@
 <!-- 🐤 GIF & IMG 🐤 --> 	
 <p align="center">
 <a href="https://user-images.githubusercontent.com/58620940/235355841-009e7307-1ff9-4122-9fb3-266e15825fcb.gif"> 	
-<img src="https://user-images.githubusercontent.com/58620940/235355841-009e7307-1ff9-4122-9fb3-266e15825fcb.gif" width="450" height="240">
+<img src="https://user-images.githubusercontent.com/58620940/236673781-ece4a9ae-f3ea-4618-b25b-2804ed7088b0.gif" width="450" height="240">
 </p>
 </a>
 
