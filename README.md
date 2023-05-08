@@ -8,7 +8,7 @@
 
 <!-- 🐱 GIF & IMG 🐱 --> 
 <p align="center">
-<a href="https://user-images.githubusercontent.com/58620940/220406485-a53fccd9-e817-4f33-b97b-a302a3cde38b.gif"> 
+<a href="https://user-images.githubusercontent.com/58620940/236674068-aa4be8fc-d10a-48fe-909c-d6a06ba038c1.gif"> 
 <img src="https://user-images.githubusercontent.com/58620940/236674068-aa4be8fc-d10a-48fe-909c-d6a06ba038c1.gif" width="200" height="240">
 </a> &nbsp 
 <a href="https://user-images.githubusercontent.com/58620940/217849122-9dfeeb72-2958-40cc-a647-382bfb078cd8.gif"> 
